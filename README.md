@@ -118,7 +118,10 @@ smbpasswd -a anas ==> add a passowrd for SMB
 + now u just need to restart the service by : service smbd restart
 
 squid :
-+  configuration file it will be in reporistry and also the original file.
++  configuration file it will be in repository and also the original file.
 
+tvheadend :
++ configuration file in repository
++ u will find it in **.hts** not hts cuz github didn't allow me to upload hidden file
 ## Real Goal
 after finishing everything i will make this as a system u just install it and u r good to go ;)
