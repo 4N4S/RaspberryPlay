@@ -123,5 +123,5 @@ squid :
 tvheadend :
 + configuration file in repository
 + u will find it in **.hts** not **hts** cuz github didn't allow me to upload hidden file
-## Real Goal
+## Goal
 after finishing everything i will make this as a system u just install it and u r good to go ;)
